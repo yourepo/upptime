@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: YouRepo
     url: https://www.yourepo.com
+    icon: https://www.yourepo.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -12,6 +13,7 @@ status-website:
   cname: status.yourepo.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.yourepo.com/CydiaIcon.png
+  favicon: https://www.yourepo.com/favicon.ico
   name: YouRepo Status
   introTitle: "**YouRepo** Live Status."
   introMessage: Real-time status and performance metrics page for YouRepo.
