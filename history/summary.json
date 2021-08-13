@@ -2,7 +2,7 @@
   {
     "name": "YouRepo",
     "url": "https://www.yourepo.com",
-    "icon": "https://favicons.githubusercontent.com/www.yourepo.com",
+    "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1703,
-    "timeDay": 1703,
-    "timeWeek": 1703,
-    "timeMonth": 1703,
-    "timeYear": 1703,
+    "time": 1731,
+    "timeDay": 1731,
+    "timeWeek": 1731,
+    "timeMonth": 1731,
+    "timeYear": 1731,
     "dailyMinutesDown": {}
   }
 ]
