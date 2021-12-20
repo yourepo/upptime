@@ -5,18 +5,16 @@
     "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 863,
-    "timeDay": 897,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 862,
+    "timeDay": 818,
     "timeWeek": 777,
     "timeMonth": 764,
-    "timeYear": 863,
-    "dailyMinutesDown": {
-      "2021-12-19": 12
-    }
+    "timeYear": 862,
+    "dailyMinutesDown": {}
   }
 ]
