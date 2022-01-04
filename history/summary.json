@@ -4,7 +4,7 @@
     "url": "https://www.yourepo.com",
     "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "97.99%",
     "uptimeWeek": "99.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 767,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2022-01-04": 0,
       "2022-01-03": 29
     }
   }
