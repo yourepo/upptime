@@ -6,17 +6,16 @@
     "slug": "you-repo",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.94%",
     "time": 844,
-    "timeDay": 739,
-    "timeWeek": 736,
+    "timeDay": 748,
+    "timeWeek": 737,
     "timeMonth": 768,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2022-01-14": 13,
       "2022-01-04": 97,
       "2022-01-03": 29
     }
