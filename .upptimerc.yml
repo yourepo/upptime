@@ -1,27 +1,23 @@
-# Change these first
-owner: yourepo # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: yourepo
+repo: upptime
 sites:
   - name: YouRepo
     url: https://www.yourepo.com
     icon: https://www.yourepo.com/favicon.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.yourepo.com
-  # baseUrl: /your-repo-name
   logoUrl: https://www.yourepo.com/CydiaIcon.png
+  themeUrl: https://status.yourepo.com/adaptative.css
   favicon: https://www.yourepo.com/favicon.ico
   name: YouRepo Status
   introTitle: "**YouRepo** Live Status."
   introMessage: Real-time status and performance metrics page for YouRepo.
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /
     - title: YouRepo
       href: https://www.yourepo.com/
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
