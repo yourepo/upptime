@@ -8,7 +8,7 @@ sites:
 status-website:
   cname: status.yourepo.com
   logoUrl: https://www.yourepo.com/CydiaIcon.png
-  themeUrl: https://status.yourepo.com/adaptative.css
+  themeUrl: https://raw.githubusercontent.com/yourepo/upptime/master/assets/adaptative.css
   favicon: https://www.yourepo.com/favicon.ico
   name: YouRepo Status
   introTitle: "**YouRepo** Live Status."
