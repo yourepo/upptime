@@ -8,14 +8,17 @@ sites:
 status-website:
   cname: status.yourepo.com
   logoUrl: https://www.yourepo.com/CydiaIcon.png
-  themeUrl: https://raw.githubusercontent.com/yourepo/upptime/master/assets/adaptative.css
   favicon: https://www.yourepo.com/favicon.ico
-  name: YouRepo Status
+  name: "YouRepo Status"
   introTitle: "**YouRepo** Live Status."
-  introMessage: Real-time status and performance metrics page for YouRepo.
+  introMessage: "Real-time status and performance metrics page for YouRepo."
   metaTags:
-    - name: "robots"
-      content: "noindex"
+    - name: robots
+      content: noindex
+  links:
+    - rel: stylesheet
+      href: https://status.yourepo.com/themes/night.css
+      media: "(prefers-color-scheme: dark)"
   navbar:
     - title: Status
       href: /
