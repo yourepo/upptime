@@ -1,9 +1,18 @@
 owner: yourepo
 repo: upptime
 sites:
-  - name: YouRepo
-    url: https://www.yourepo.com
+  - name: YouRepo Website
+    url: https://www.yourepo.com/
     icon: https://www.yourepo.com/favicon.ico
+    expectedStatusCodes:
+      - 200
+      - 201
+  - name: YouRepo API
+    url: https://api.yourepo.com/1.0/application/usage.json?secret_key=$API_SECRET_KEY
+    icon: https://www.yourepo.com/favicon.ico
+    expectedStatusCodes:
+      - 200
+      - 201
 
 status-website:
   cname: status.yourepo.com
