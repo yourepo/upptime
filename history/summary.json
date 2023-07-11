@@ -5,16 +5,16 @@
     "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo-website",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 490,
-    "timeDay": 767,
-    "timeWeek": 514,
-    "timeMonth": 490,
-    "timeYear": 490,
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 488,
+    "timeDay": 420,
+    "timeWeek": 518,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-07-07": 109
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 852,
-    "timeWeek": 799,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "time": 695,
+    "timeDay": 575,
+    "timeWeek": 763,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   }
 ]
