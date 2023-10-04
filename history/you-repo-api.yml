@@ -1,7 +1,7 @@
 url: https://api.yourepo.com/1.0/application/usage.json?secret_key=$API_SECRET_KEY
-status: down
-code: 503
-responseTime: 406
-lastUpdated: 2023-10-04T07:17:03.538Z
+status: up
+code: 200
+responseTime: 704
+lastUpdated: 2023-10-04T09:24:36.147Z
 startTime: 2023-06-18T07:31:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
