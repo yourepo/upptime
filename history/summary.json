@@ -4,10 +4,10 @@
     "url": "https://www.yourepo.com/",
     "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 547,
@@ -16,6 +16,7 @@
     "timeMonth": 541,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2023-12-19": 2,
       "2023-10-13": 19,
       "2023-10-04": 128,
       "2023-09-01": 24,
@@ -28,7 +29,7 @@
     "url": "https://api.yourepo.com/1.0/application/usage.json?secret_key=$API_SECRET_KEY",
     "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +41,7 @@
     "timeMonth": 586,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-10-13": 18,
       "2023-10-04": 128,
       "2023-09-01": 24
