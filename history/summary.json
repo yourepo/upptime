@@ -27,7 +27,7 @@
     "url": "https://api.yourepo.com/1.0/application/usage.json?secret_key=$API_SECRET_KEY",
     "icon": "https://www.yourepo.com/favicon.ico",
     "slug": "you-repo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 1367,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2025-05-11": 0,
       "2025-02-27": 39,
       "2025-02-02": 46,
       "2024-12-30": 34
